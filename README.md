@@ -1,2 +1,2 @@
 # QuizGame
-I Have Created Quiz Game Using Python Programing Languag
+I Have Created Quiz Game Using Python Programing Language
